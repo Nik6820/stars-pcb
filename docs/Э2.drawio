@@ -1,0 +1,218 @@
+<mxfile host="65bd71144e">
+    <diagram id="MOl-cQhk5z_mXxKVSlM0" name="Page-1">
+        <mxGraphModel dx="1052" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-1" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-2" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" target="KGtgn0Pik15Cu70z7Xzy-7" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Драйвер Шагового&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="400" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-3" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-29" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="KGtgn0Pik15Cu70z7Xzy-2" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="190" y="650"/>
+                        </Array>
+                        <mxPoint x="120" y="530" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-4" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-31" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KGtgn0Pik15Cu70z7Xzy-9" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="260" y="400"/>
+                        </Array>
+                        <mxPoint x="120" y="780" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-5" connectable="0" parent="KGtgn0Pik15Cu70z7Xzy-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="4 провода&amp;nbsp;&lt;div&gt;(только к нему)&lt;/div&gt;" vertex="1">
+                    <mxGeometry relative="1" x="0.2015" y="5" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-6" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-29" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;endFill=0;elbow=vertical;" target="KGtgn0Pik15Cu70z7Xzy-12" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="350" y="540"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Шаговый&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="560" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-8" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-9" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" target="KGtgn0Pik15Cu70z7Xzy-10" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Драйвер Шагового&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="560" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Шаговый&amp;nbsp;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="720" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" value="Концевик&lt;span style=&quot;font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3Dnone%3Bhtml%3D1%3BendArrow%3Dnone%3BendFill%3D0%3B%22%20edge%3D%221%22%20source%3D%223%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%26quot%3B%26gt%3B%D0%94%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80%20%D0%A8%D0%B0%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22360%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%26quot%3B%26gt%3B%D0%A8%D0%B0%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22280%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="400" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сеть для передачи данных ориентации" vertex="1">
+                    <mxGeometry height="40" width="120" x="400" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-13" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-11" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;dashed=1;dashPattern=1 4;" target="KGtgn0Pik15Cu70z7Xzy-31" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="180" y="250"/>
+                        </Array>
+                        <mxPoint x="-10" y="700" as="sourcePoint"/>
+                        <mxPoint x="40" y="650" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-14" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-15" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" target="KGtgn0Pik15Cu70z7Xzy-22" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RTL-SDR" vertex="1">
+                    <mxGeometry height="40" width="120" x="560" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-16" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-15" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="KGtgn0Pik15Cu70z7Xzy-31" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="310"/>
+                        </Array>
+                        <mxPoint x="-40" y="810" as="sourcePoint"/>
+                        <mxPoint x="10" y="760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-17" connectable="0" parent="KGtgn0Pik15Cu70z7Xzy-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="USB разъем&lt;div&gt;(можно попробовать для датчиков&lt;div&gt;&amp;nbsp;и концевика питание подсосать)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry relative="1" x="-0.4235" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-18" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-29" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="KGtgn0Pik15Cu70z7Xzy-19" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="440" y="490"/>
+                        </Array>
+                        <mxPoint x="390" y="550" as="sourcePoint"/>
+                        <mxPoint x="440" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Монитор мышь клавиатура" vertex="1">
+                    <mxGeometry height="40" width="120" x="560" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" value="Концевик&lt;span style=&quot;font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22edgeStyle%3Dnone%3Bhtml%3D1%3BendArrow%3Dnone%3BendFill%3D0%3B%22%20edge%3D%221%22%20source%3D%223%22%20target%3D%224%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%26quot%3B%26gt%3B%D0%94%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80%20%D0%A8%D0%B0%D0%B3%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22360%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%26quot%3B%26gt%3B%D0%A8%D0%B0%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%26amp%3Bnbsp%3B%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22240%22%20y%3D%22280%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="400" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-21" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-29" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;dashed=1;dashPattern=1 4;" target="KGtgn0Pik15Cu70z7Xzy-20" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="220" y="700"/>
+                        </Array>
+                        <mxPoint x="250" y="540" as="sourcePoint"/>
+                        <mxPoint x="300" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Антенна УКВ" vertex="1">
+                    <mxGeometry height="40" width="120" x="720" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-23" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-24" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;endFill=0;elbow=vertical;" target="KGtgn0Pik15Cu70z7Xzy-31" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="230"/>
+                        </Array>
+                        <mxPoint x="360" y="220" as="sourcePoint"/>
+                        <mxPoint x="160" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Датчик GPS" vertex="1">
+                    <mxGeometry height="40" width="120" x="880" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Энкодер" vertex="1">
+                    <mxGeometry height="40" width="120" x="720" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Компас" vertex="1">
+                    <mxGeometry height="40" width="120" x="400" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Энкодер" vertex="1">
+                    <mxGeometry height="40" width="120" x="400" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-28" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-29" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;" target="KGtgn0Pik15Cu70z7Xzy-27" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="250" y="610"/>
+                        </Array>
+                        <mxPoint x="132.83999999999992" y="513.6799999999998" as="sourcePoint"/>
+                        <mxPoint x="220" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Raspbery Pi&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="120" x="160" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Акселерометр" vertex="1">
+                    <mxGeometry height="40" width="120" x="560" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-31" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Скользящий контакт (12 проводов 2А)" vertex="1">
+                    <mxGeometry height="40" width="120" x="160" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-32" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-31" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="KGtgn0Pik15Cu70z7Xzy-25" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="530" y="230"/>
+                        </Array>
+                        <mxPoint x="780" y="240" as="sourcePoint"/>
+                        <mxPoint x="590" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-33" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-31" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="KGtgn0Pik15Cu70z7Xzy-30" value=" ">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="430" y="230"/>
+                        </Array>
+                        <mxPoint x="730" y="440" as="sourcePoint"/>
+                        <mxPoint x="1193" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-34" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-31" style="endArrow=none;html=1;edgeStyle=elbowEdgeStyle;elbow=vertical;" target="KGtgn0Pik15Cu70z7Xzy-26" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="350" y="230"/>
+                        </Array>
+                        <mxPoint x="300" y="280" as="sourcePoint"/>
+                        <mxPoint x="350" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-35" connectable="0" parent="KGtgn0Pik15Cu70z7Xzy-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Нужен один протокол&lt;br&gt;Питание 3-5В" vertex="1">
+                    <mxGeometry relative="1" x="-0.5083" y="3" as="geometry">
+                        <mxPoint x="93" y="-52" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-36" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-29" style="shape=link;html=1;" target="KGtgn0Pik15Cu70z7Xzy-31" value="">
+                    <mxGeometry relative="1" width="100" as="geometry">
+                        <mxPoint x="210" y="630" as="sourcePoint"/>
+                        <mxPoint x="310" y="630" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-39" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-38" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" target="KGtgn0Pik15Cu70z7Xzy-29" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-40" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-38" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;endFill=0;elbow=vertical;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="KGtgn0Pik15Cu70z7Xzy-31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Питание (надо конкретно прописать)" vertex="1">
+                    <mxGeometry height="40" width="120" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-41" edge="1" parent="1" source="KGtgn0Pik15Cu70z7Xzy-38" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;endFill=0;elbow=vertical;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="KGtgn0Pik15Cu70z7Xzy-2">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="790"/>
+                        </Array>
+                        <mxPoint x="110" y="580" as="sourcePoint"/>
+                        <mxPoint x="240" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="KGtgn0Pik15Cu70z7Xzy-42" connectable="0" parent="KGtgn0Pik15Cu70z7Xzy-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Минимум 9В" vertex="1">
+                    <mxGeometry relative="1" x="-0.6429" y="3" as="geometry">
+                        <mxPoint y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
